@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdasdasdasdas
 master 修改
+=======
+reg 修改
+>>>>>>> reg
